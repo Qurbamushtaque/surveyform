@@ -1,0 +1,59 @@
+body{
+    background-image:url("sur.jpeg");
+    background-color:pink;
+    text-align: center;
+}
+h1{
+    background-color:white;
+    font-size:50px;
+    font-variant: small-caps;
+    text-align:center;
+    width:100%;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.main :nth-child(2){
+    text-align:center;
+    font-size: 22px;
+font-weight: bolder;
+}
+.name{
+    font-size: 25px;
+}
+.main{
+    background-image: url("sur.jpeg");
+    background-color: rgba(255,255,255,0.6);
+    background-blend-mode: lighten;
+}
+.submit{
+    text-align:center;
+    display:block;
+    width:100%;
+    margin-left:auto;
+    margin-right:auto;
+    font-size: 27px;
+    line-height: 10px;
+}
+
+.hello{
+    font-size: 25px;
+    text-align:center;
+    display:block;
+   width: fit-content;
+    margin-right:auto;
+    margin-right:auto;
+}
+button{
+    font-size: 25px;
+    position:relative;
+    top: 21px;
+}
+.hello{
+    text-align:center;
+    display:inline-block;
+
+    margin-left:0 auto;
+    margin-right:0 auto;
+}
